@@ -2,11 +2,14 @@
   "name": "lists",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "npx ajv-cli validate -s address.darklist.schema.json -d address.darklist.json"
+    "test": "npx ajv-cli validate -s address.darklist.schema.json -d address.darklist.json",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.0.11"
+  }
 }
