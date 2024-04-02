@@ -1,0 +1,12 @@
+{
+  "name": "lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ajv-cli validate -s address.darklist.schema.json -d address.darklist.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
