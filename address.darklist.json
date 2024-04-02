@@ -1,4 +1,5 @@
 {
+  "$schema": "./address.darklist.schema.json",
   "version": "0.1",
   "darklist": []
 }
