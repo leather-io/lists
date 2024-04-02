@@ -2,7 +2,12 @@
   "version": "0.1",
   "darklist": []
 }
+<<<<<<< Updated upstream
 { 
   "address": "x", 
   "comment": "bc1qexample..." 
 }
+=======
+{ "address": "x", "comment": "bc1qexample..." }
+{ "address": "x", "comment": "bc1qexample..." }
+>>>>>>> Stashed changes
