@@ -1,5 +1,10 @@
 {
   "$schema": "./address.darklist.schema.json",
   "version": "0.1",
-  "darklist": []
+  "darklist": [
+    {
+      "comment": "Known for scam relating to Apple store",
+      "address": "SP1MECCFNV7BM2DRSSPE1G408EMTWGPNCZ4NN6RXH"
+    }
+  ]
 }
